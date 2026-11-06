@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Akshay R. Shinde — Full Stack Developer and UI Engineer" />
+<img src="./hero.svg" width="100%" alt="Akshay R. Shinde — Full Stack Developer and UI Engineer" />
 
 <a href="mailto:akshayshinde4754@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 <a href="https://github.com/akshay-shinde-team"><img src="https://img.shields.io/badge/GITHUB-Profile-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -141,13 +141,13 @@ Application with REST API integrations, localization and country-specific conten
 
 <div align="center">
 
-<img src="./assets/stats-preview.svg" width="100%" alt="Illustrative GitHub statistics cards" />
+<img src="./stats-preview.svg" width="100%" alt="Illustrative GitHub statistics cards" />
 
-<img src="./assets/activity-preview.svg" width="100%" alt="Illustrative weekly contribution activity chart" />
+<img src="./activity-preview.svg" width="100%" alt="Illustrative weekly contribution activity chart" />
 
-<img src="./assets/languages-preview.svg" width="100%" alt="Illustrative programming language distribution chart" />
+<img src="./languages-preview.svg" width="100%" alt="Illustrative programming language distribution chart" />
 
-<img src="./assets/heatmap-preview.svg" width="100%" alt="Illustrative contribution heatmap" />
+<img src="./heatmap-preview.svg" width="100%" alt="Illustrative contribution heatmap" />
 
 </div>
 
