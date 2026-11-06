@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="260" viewBox="0 0 1100 260">
+<rect width="1100" height="260" rx="18" fill="#0D1117"/>
+<text x="38" y="40" fill="#F0F6FC" font-family="Arial" font-size="18" font-weight="700">Language distribution</text>
+<text x="38" y="63" fill="#8B949E" font-family="Arial" font-size="12">SAMPLE PORTFOLIO MIX — UPDATE AFTER REPOSITORIES ARE CONNECTED</text>
+<g transform="translate(170 155) rotate(-90)">
+ <circle r="67" fill="none" stroke="#26313F" stroke-width="22"/>
+ <circle r="67" fill="none" stroke="#58A6FF" stroke-width="22" stroke-dasharray="210 211"/>
+ <circle r="67" fill="none" stroke="#F1E05A" stroke-width="22" stroke-dasharray="105 316" stroke-dashoffset="-210"/>
+ <circle r="67" fill="none" stroke="#3572A5" stroke-width="22" stroke-dasharray="55 366" stroke-dashoffset="-315"/>
+ <circle r="67" fill="none" stroke="#A78BFA" stroke-width="22" stroke-dasharray="51 370" stroke-dashoffset="-370"/>
+</g>
+<g font-family="Arial" font-size="15" fill="#C9D1D9">
+<circle cx="330" cy="115" r="6" fill="#58A6FF"/><text x="348" y="120">JavaScript / TypeScript</text><text x="690" y="120" fill="#8B949E">50%</text>
+<circle cx="330" cy="151" r="6" fill="#F1E05A"/><text x="348" y="156">PHP</text><text x="690" y="156" fill="#8B949E">25%</text>
+<circle cx="330" cy="187" r="6" fill="#3572A5"/><text x="348" y="192">HTML / CSS</text><text x="690" y="192" fill="#8B949E">13%</text>
+<circle cx="330" cy="223" r="6" fill="#A78BFA"/><text x="348" y="228">Other</text><text x="690" y="228" fill="#8B949E">12%</text>
+</g></svg>

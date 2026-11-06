@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230">
+<rect width="1100" height="230" rx="18" fill="#0D1117"/>
+<text x="38" y="38" fill="#8B949E" font-family="Arial" font-size="13" letter-spacing="2">GITHUB SNAPSHOT / DEMO DATA — REPLACE WITH LIVE ACCOUNT METRICS</text>
+<g font-family="Arial">
+<g><rect x="30" y="62" width="245" height="132" rx="14" fill="#151D2B" stroke="#26364D"/><text x="54" y="101" fill="#8B949E" font-size="14">PUBLIC REPOSITORIES</text><text x="54" y="158" fill="#F0F6FC" font-size="42" font-weight="700">28</text><text x="166" y="157" fill="#58A6FF" font-size="13">+4 this month</text></g>
+<g><rect x="295" y="62" width="245" height="132" rx="14" fill="#151D2B" stroke="#26364D"/><text x="319" y="101" fill="#8B949E" font-size="14">TOTAL STARS</text><text x="319" y="158" fill="#F0F6FC" font-size="42" font-weight="700">146</text><text x="431" y="157" fill="#58A6FF" font-size="13">across projects</text></g>
+<g><rect x="560" y="62" width="245" height="132" rx="14" fill="#151D2B" stroke="#26364D"/><text x="584" y="101" fill="#8B949E" font-size="14">CONTRIBUTIONS</text><text x="584" y="158" fill="#F0F6FC" font-size="42" font-weight="700">312</text><text x="696" y="157" fill="#58A6FF" font-size="13">past year</text></g>
+<g><rect x="825" y="62" width="245" height="132" rx="14" fill="#151D2B" stroke="#26364D"/><text x="849" y="101" fill="#8B949E" font-size="14">FOLLOWERS</text><text x="849" y="158" fill="#F0F6FC" font-size="42" font-weight="700">84</text><text x="930" y="157" fill="#58A6FF" font-size="13">developer network</text></g>
+</g></svg>
